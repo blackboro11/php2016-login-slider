@@ -1,0 +1,221 @@
+#wrapper {
+    width: 4950px;
+    transform: translate3d(0, 0, 0);
+    transition: transform .5s ease-in-out;
+}
+.content {
+    float: left;
+    width: 550px;
+    height: 350px;
+    white-space: normal;
+    background-repeat: no-repeat;
+}
+#img1 {
+    background-color: #0099CC;
+    background-image: url("../img/e/e1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+ 
+#img2 {
+
+    background-image: url("../img/e/e2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+ 
+#img3 {
+
+    background-image: url("../img/e/e3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+ 
+#img4 {
+
+    background-image: url("../img/e/e4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#img5 {
+
+    background-image: url("../img/e/e5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#img6 {
+
+    background-image: url("../img/e/e6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#img7 {
+
+    background-image: url("../img/e/e7.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#img8 {
+
+    background-image: url("../img/e/e8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.content {
+    float: left;
+    width: 550px;
+    height: 350px;
+    white-space: normal;
+    background-repeat: no-repeat;
+}
+/*#sliderContainer{
+    margin-left:500px;
+}*/
+
+#contentContainer {
+    width: 550px;
+    height: 350px;
+    overflow: hidden;
+}
+/*navigation*/
+#navLinks {
+    text-align: center;
+    width: 550px;
+}
+    #navLinks ul {
+        margin: 0px;
+        padding: 0px;
+        display: inline-block;
+        margin-top: 6px;
+    }
+        #navLinks ul li {
+            float: left;
+            text-align: center;
+            margin: 10px;
+            list-style: none;
+            cursor: pointer;
+            background-color: #CCCCCC;
+            padding: 5px;
+            border-radius: 50%;
+        }
+            #navLinks ul li:hover {
+                background-color: #FFFF00;
+            }
+            #navLinks ul li.active {
+                background-color: #333333;
+                color: #FFFFFF;
+                outline-width: 7px;
+            }
+                #navLinks ul li.active:hover {
+                    background-color: #484848;
+                    color: #FFFFFF;
+                }
+#slidercontainer{
+    margin-left:10px;
+}
+/*image logo*/
+
+#logocont{
+	height: 400px;
+	width: 410px;
+	margin-left:-400px;
+	margin-top:20px;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+#objcont2{
+    margin-top:50px;
+}
+#objcont3{
+    margin-top:-20px;
+}
+#descript1{
+    height:400px;
+    width: 700px;
+    background-image: url("../img/logoOrig.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: -400px;
+    margin-left: 550px;
+}
+#descript2{
+    height:400px;
+    width: 700px;
+    background-image: url("../img/logoF.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+#descript3{
+    height:400px;
+    width: 700px;
+    background-image: url("../img/logoEt.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 5px;
+    margin-left: 550px;
+}
+#descript4{
+    height:400px;
+    width: 700px;
+    background-image: url("../img/logoLove.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: -30px;
+}
+#descript5{
+    height:400px;
+    width: 700px;
+    background-image: url("../img/logoG.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 550px;
+}
+
+#obj2{
+    margin-top: -390px;
+    margin-left: 650px;
+}
+#obj3{
+    margin-top: -370px;
+    margin-left: 5px;
+}
+#obj4{
+    margin-top: -390px;
+    margin-left: 650px;
+}
+#obj5{
+    margin-top: -390px;
+    margin-left: 5px;
+}
+#wholeWrap{
+    margin: 0 auto;
+    margin-left: 20px;
+}
+
+/*LOGIN FORM*/
+
+#logocontainer{
+	height: 400px;
+	width: 410px;
+	margin-left:-400px;
+	margin-top:20px;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+#logoimg{
+	max-height: 100%;
+	max-width: 100%;
+	
+}
+#logocont{
+	height: 300px;
+	width: 400px;
+    margin:0px auto;
+}
+#header{
+    margin: -70px auto;
+}
